@@ -182,7 +182,7 @@ session_start();
     </div><!-- /.container -->
 
     <div class="blog-footer">
-      <p>&copy; 2016 JoelNoem's, Inc.</p>
+      <p>&copy; 2016 Joels, Inc.</p>
         <a href="#">Back to top</a>
       </p>
     </div>

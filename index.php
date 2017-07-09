@@ -71,7 +71,7 @@
 
           <div class="mastfoot">
             <div class="inner">
-              <p>&copy; 2016 JoelNoem's, Inc.</p>
+              <p>&copy; 2016 Joels, Inc.</p>
             </div>
           </div>
 
